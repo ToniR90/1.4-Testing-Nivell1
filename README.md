@@ -1,29 +1,29 @@
 # **Library Book Management System** 📚
 
-📄 Description
+## **📄 Description**
 
 This project is designed to manage a collection of books in a library. The implementation enables the following functionalities:
 
 The program ensures that book titles remain unique and that the list is maintained in alphabetical order after any addition or removal of books. The implementation is thoroughly tested using JUnit to verify its correctness and robustness.
 
-💻 Technologies Used
+## **💻 Technologies Used**
 
 - Java
 - JUnit 5 for testing
 
 
-📋 Requirements
+## **📋 Requirements**
 
 -Java JDK 11 or higher
 -A Java IDE such as IntelliJ or Eclipse
 
 
-🛠️ Installation
+## **🛠️ Installation**
 
 Clone this repositori: https://github.com/ToniR90/1.4-Testing-Nivell1.git
 
 
-🚀 Features
+## **🚀 Features**
 
 -Add books to the library.
 -Retrieve and display the entire list of books.
@@ -33,7 +33,8 @@ Clone this repositori: https://github.com/ToniR90/1.4-Testing-Nivell1.git
 -Automatically maintain alphabetical order of the book list.
 
 
-✅ Testing
+## **✅ Testing**
+
 This project is verified using JUnit 5, with the following test cases implemented:
 1. Non-null book list: Ensures that the book list is not null upon initialization.
 2. Correct list size: Confirms the list size after adding multiple books.

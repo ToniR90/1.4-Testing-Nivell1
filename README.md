@@ -1,6 +1,7 @@
-##Library Book Management System 📚
+# **Library Book Management System** 📚
 
 📄 Description
+
 This project is designed to manage a collection of books in a library. The implementation enables the following functionalities:
 
 The program ensures that book titles remain unique and that the list is maintained in alphabetical order after any addition or removal of books. The implementation is thoroughly tested using JUnit to verify its correctness and robustness.

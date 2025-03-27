@@ -15,6 +15,7 @@ The program ensures that book titles remain unique and that the list is maintain
 ## **📋 Requirements**
 
 -Java JDK 11 or higher
+
 -A Java IDE such as IntelliJ or Eclipse
 
 
